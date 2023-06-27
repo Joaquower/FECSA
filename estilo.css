@@ -1,9 +1,0 @@
-/*MENU*/
-.contenedor_general{
-    background: #4688ae;
-    position: fixed;
-    width: 100%;
-    top: 0;
-    left: 0;
-    z-index: 99;   
-}
